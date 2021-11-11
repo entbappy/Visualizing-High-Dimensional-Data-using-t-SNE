@@ -1,4 +1,4 @@
-# Visualizing High Dimensional Data using t-SNE
+# Visualizing High Dimensional Data using t-SNE (Stochastic Neighbor Embedding)
 
 Visualization of high-dimensional data is an important problem in many different domains, and
 deals with data of widely varying dimensionality. Cell nuclei that are relevant to breast cancer,
